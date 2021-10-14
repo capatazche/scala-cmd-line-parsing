@@ -1,0 +1,1 @@
+This project was initiated by running `sbt new scala/hello-world.g8`.
